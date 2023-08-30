@@ -162,7 +162,7 @@ p {
 .main-wrapper {
   grid-column: span 7;
   order: $resume-order;
-  background: #fff;
+  background: #ebe46c;
   padding: 60px;
   .section-title {
     text-transform: uppercase;
@@ -268,7 +268,7 @@ p {
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten($theme-color, 15%);
+    background: #fff200;
   }
 }
 
