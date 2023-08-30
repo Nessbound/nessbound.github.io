@@ -89,9 +89,9 @@ experiences:
 
 projects:
     title: Projects
-    info:
-      - project: Pokemon Go Pokedex
-        details: |
+    assignments:
+      - title: Pokemon Go Pokedex
+        tagline: |
           During my sophomore year, I was a big fan of Pokemon (still am), and 
           wanted to create a Pokedex for Pokemon go that is easily accessible from 
           the phone. With this in mind, I was able to use Kotlin to connect with the 
@@ -101,9 +101,9 @@ projects:
           about API connection, especially how to figure it out in languages that have 
           less documentation (such as Kotlin).
 
-      - project: Punk API Beer Application
-        details: 
-          During my sophomore year, I was part of a team that was required to build 
+      - title: Punk API Beer Application
+        tagline: 
+          Also during my sophomore year, I was part of a team that was required to build 
           out an application using an API that allows user interaction. With this 
           goal in mind, my team and I used Punk API (a beer API, as one of my groupmates 
           was a drinking aficionado) to create an application that can suggest beers based 
