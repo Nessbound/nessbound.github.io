@@ -87,6 +87,31 @@ experiences:
           also learned to be able to connect well with fellow employees and 
           grow meaningful work relationships that build each other up.
 
+projects:
+    title: Projects
+    info:
+      - project: Pokemon Go Pokedex
+        details: |
+          During my sophomore year, I was a big fan of Pokemon (still am), and 
+          wanted to create a Pokedex for Pokemon go that is easily accessible from 
+          the phone. With this in mind, I was able to use Kotlin to connect with the 
+          Bulbapedia API as well as the PokeGo API, and then using those connections 
+          I was able to successfully create an app that has an entry for each Pokemon 
+          in Pokemon Go including their stats and images. This project taught me a lot 
+          about API connection, especially how to figure it out in languages that have 
+          less documentation (such as Kotlin).
+
+      - project: Punk API Beer Application
+        details: 
+          During my sophomore year, I was part of a team that was required to build 
+          out an application using an API that allows user interaction. With this 
+          goal in mind, my team and I used Punk API (a beer API, as one of my groupmates 
+          was a drinking aficionado) to create an application that can suggest beers based 
+          on what food you want to drink the beer with, what level of color you what, what 
+          level of alcohol you want, and other thing, as well as being able to suggest a 
+          random beer. This project taught me not only the value of teamwork, but how to 
+          efficiently scope out and sprint projects as a team.
+
 skills:
     title: Skills &amp; Proficiency
 
